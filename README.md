@@ -1,4 +1,4 @@
-微信支付的官方文档没有APP支付的Demo，这里根据其网页支付的相关库文件，制作了一个。主要包含了几个功能：<br/>1、创建预支付订单 wechatCreatePrePay.php<br/>2、微信服务器回调通知处理 wechatNotify.php<br/>3、根据官方的tool，多添加了一个模拟微信服务器回调的工具，用于调试 tool/index.php
+微信支付的官方文档没有APP支付的Demo，这里根据其网页支付的相关库文件(版本2016.10.11)，制作了一个。主要包含了几个功能：<br/>1、创建预支付订单 wechatCreatePrePay.php<br/>2、微信服务器回调通知处理 wechatNotify.php<br/>3、根据官方的tool，多添加了一个模拟微信服务器回调的工具，用于调试 tool/index.php
 
 #### 其中官方的库文件主要作了如下修改：
 
